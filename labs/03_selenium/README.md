@@ -41,7 +41,7 @@ pip install -r requirements.txt
 Validate the installation and setup is properly installed with
 
 ```shell
-python open_class_app.py
+pytest open_class_app.py
 ```
 
 
